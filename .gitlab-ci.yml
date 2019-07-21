@@ -1,7 +1,7 @@
 image: node:10.15.3
 
 variables:
-  PUBLIC_URL: http://kaitiggy.gitlab.io/mmj-reciprocity
+  PUBLIC_URL: https://kaitiggy.gitlab.io/mmj-reciprocity
 
 cache:
   paths:
