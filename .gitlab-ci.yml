@@ -1,17 +1,25 @@
 image: node:10.15.3
 
-pages:
 cache:
-paths:
-- ./node_modules/
+  paths:
+    - node_modules/
 
-stage: deploy
-script:
-- npm install
-- npm run build
-- mv build/* public/
-artifacts:
-paths:
-- public
-only:
-- master
+before_script:
+  - npm install
+
+test:
+  stage: test
+  script:
+    - CI=true npm test
+
+pages:
+  stage: deploy
+  script:
+    - CI=true npm run build
+    - rm -rf public
+    - mv build public
+  artifacts:
+    paths:
+      - public # GitLab pages serve from a 'public' directory
+  only:
+    - master # run on master branch
