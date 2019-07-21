@@ -5,7 +5,7 @@ existing resources related to MMJ reciprocity in the United States either
 inadequate or inaccurate. So, I want this site to be as accurate as possible.
 With that in mind, I decided to make this an open source initiative.
 
-*Data Corrections*
+## Data Corrections
 
 If you're a developer, or simply happen to understand JSON, feel free to fork 
 this repository and modify [`data.json`](https://gitlab.com/KaiTiggy/mmj-reciprocity/blob/master/src/data.json). 
