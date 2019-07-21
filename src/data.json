@@ -1,0 +1,771 @@
+{
+  "states": [
+    {
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "status": {
+        "medical": true,
+        "recreational": true,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "American Samoa",
+      "abbreviation": "AS",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": true
+      },
+      "details": {
+        "links": ["https://www.azleg.gov/FormatDocument.asp?inDoc=/ars/36/02804-03.htm&Title=36&DocType=ARS","https://azdhs.gov/licensing/medical-marijuana/index.php#faqs-patients"],
+        "info": ["A registry identification card, or its equivalent, that is issued under the laws of another state, district, territory, commonwealth or insular possession of the United States that allows a visiting qualifying patient to possess or use marijuana for medical purposes in the jurisdiction of issuance has the same force and effect when held by a visiting qualifying patient as a registry identification card issued by the department, except that a visiting qualifying patient is not authorized to obtain marijuana from a nonprofit medical marijuana dispensary."]
+      }
+    },
+    {
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": true
+      },
+      "details": {
+        "links": ["https://www.healthy.arkansas.gov/programs-services/topics/medical-marijuana-faqs"],
+        "info": ["A visiting qualifying patient may obtain marijuana from a dispensary with approval as a visiting patient. A visiting patient application is $50.00 (non-refundable). If approved, a visiting patient may purchase medical marijuana in Arkansas for a 30-day period, per application."]
+      }
+    },
+    {
+      "name": "California",
+      "abbreviation": "CA",
+      "status": {
+        "medical": true,
+        "recreational": true,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "status": {
+        "medical": true,
+        "recreational": true,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "District Of Columbia",
+      "abbreviation": "DC",
+      "status": {
+        "medical": true,
+        "recreational": true,
+        "reciprocity": true
+      },
+      "details": {
+        "links": ["http://lims.dccouncil.us/Download/39509/PR22-0699-Introduction.pdf"],
+        "info": ["Accepts MMJ cards from Colorado, Connecticut, Delaware, Florida, Hawaii, Illinois, Maine, Maryland, Massachusetts, Michigan, Montana, New Hampshire, New Jersey, Rhode Island, Oregon, and Washington."]
+      }
+    },
+    {
+      "name": "Federated States Of Micronesia",
+      "abbreviation": "FM",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Florida",
+      "abbreviation": "FL",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Guam",
+      "abbreviation": "GU",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Hawaii",
+      "abbreviation": "HI",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": true
+      },
+      "details": {
+        "links": ["http://health.hawaii.gov/medicalcannabisregistry/travel/"],
+        "info": []
+      }
+    },
+    {
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Maine",
+      "abbreviation": "ME",
+      "status": {
+        "medical": true,
+        "recreational": true,
+        "reciprocity": true
+      },
+      "details": {
+        "links": [],
+        "info": ["Accepts MMJ cards from Alaska, Arizona, Arkansas, California, Connecticut, Florida, Hawaii, Illinois, Maryland, Michigan, Minnesota, Montana, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Oregon, Rhode Island, Vermont, Washington, and Washington DC."]
+      }
+    },
+    {
+      "name": "Marshall Islands",
+      "abbreviation": "MH",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "status": {
+        "medical": true,
+        "recreational": true,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "status": {
+        "medical": true,
+        "recreational": true,
+        "reciprocity": true
+      },
+      "details": {
+        "links": ["https://weedmaps.com/learn/laws-and-regulations/michigan/"],
+        "info": ["According to weedmaps.com, certified medical cannabis patients from out of state may use medical cannabis while in Michigan, as long as their home state also allows for reciprocity. (unverified)"]
+      }
+    },
+    {
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Montana",
+      "abbreviation": "MT",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "status": {
+        "medical": true,
+        "recreational": true,
+        "reciprocity": true
+      },
+      "details": {
+        "links": ["http://dpbh.nv.gov/Reg/MM-Patient-Cardholder-Registry/MM_Patient_Cardholder_Registry_-_Home/"],
+        "info": ["Accepts MMJ cards from Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Hawaii, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Montana, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, Vermont, Washington, and Washington DC."]
+      }
+    },
+    {
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "New York",
+      "abbreviation": "NY",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "North Carolina",
+      "abbreviation": "NC",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "North Dakota",
+      "abbreviation": "ND",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "abbreviation": "MP",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": true
+      },
+      "details": {
+        "links": ["http://codes.ohio.gov/orc/3796.16"],
+        "info": ["Reciprocity is written into Ohio's MMJ laws, but the State has not appear to have announed any states whose cards they will accept."]
+      }
+    },
+    {
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": true
+      },
+      "details": {
+        "links": ["http://omma.ok.gov/temporary-adult-patient-application-information1"],
+        "info": ["A medical marijuana temporary adult patient license allows an individual with a valid medical marijuana license from another state to legally buy, use, and grow medical marijuana and medical marijuana products in Oklahoma."]
+      }
+    },
+    {
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "status": {
+        "medical": true,
+        "recreational": true,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Palau",
+      "abbreviation": "PW",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Pennsylvania",
+      "abbreviation": "PA",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Puerto Rico",
+      "abbreviation": "PR",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": true
+      },
+      "details": {
+        "links": ["http://cannabismedicinal.salud.gov.pr/?page_id=2852"],
+        "info": ["I am sleepy and I don't feel like going into Spanish mode right now so I'll find the source later..."]
+      }
+    },
+    {
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": true
+      },
+      "details": {
+        "links": ["https://www.providencejournal.com/news/20180728/ri-dispensaries-begin-selling-to-out-of-state-customers"],
+        "info": []
+      }
+    },
+    {
+      "name": "South Carolina",
+      "abbreviation": "SC",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "South Dakota",
+      "abbreviation": "SD",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Texas",
+      "abbreviation": "TX",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Utah",
+      "abbreviation": "UT",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "status": {
+        "medical": true,
+        "recreational": true,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Virgin Islands",
+      "abbreviation": "VI",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Washington",
+      "abbreviation": "WA",
+      "status": {
+        "medical": true,
+        "recreational": true,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "West Virginia",
+      "abbreviation": "WV",
+      "status": {
+        "medical": true,
+        "recreational": false,
+        "reciprocity": true
+      },
+      "details": {
+        "links": ["http://www.wvlegislature.gov/wvcode/code.cfm?chap=16A&art=3"],
+        "info": ["The bureau may enter into reciprocity agreements with any states that have comparable requirements for the use and lawful purchase of medical cannabis in a manner consistent with the provisions of this article to allow terminally ill cancer patients to purchase medical cannabis in another state."]
+      }
+    },
+    {
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    },
+    {
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "status": {
+        "medical": false,
+        "recreational": false,
+        "reciprocity": false
+      },
+      "details": {
+        "links": [],
+        "info": []
+      }
+    }
+  ]
+}
