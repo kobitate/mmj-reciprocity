@@ -17,26 +17,23 @@ export default class MainTemplate extends Component {
   render () {
     return (
       <Container>
-        <Navbar expand='xs'>
+        <Navbar expand='md'>
           <NavbarBrand>MMJ Reciprocity</NavbarBrand>
           <Collapse isOpen navbar>
             <Nav className='ml-auto' navbar>
               <NavItem>
                 <NavLink>
-                  <FontAwesomeIcon icon={faCircle} style={{ color: 'limegreen' }} className='mr-1' />
-                Medical w/ Reciprocity
+                  <FontAwesomeIcon icon={faCircle} style={{ color: 'limegreen' }} className='mr-1' /> Medical w/ Reciprocity
                 </NavLink>
               </NavItem>
               <NavItem>
                 <NavLink>
-                  <FontAwesomeIcon icon={faCircle} style={{ color: 'green' }} className='mr-1' />
-                Medical w/ no Reciprocity
+                  <FontAwesomeIcon icon={faCircle} style={{ color: 'green' }} className='mr-1' /> Medical w/ no Reciprocity
                 </NavLink>
               </NavItem>
               <NavItem>
                 <NavLink>
-                  <FontAwesomeIcon icon={faCircle} style={{ color: '#d3d3d3' }} className='mr-1' />
-                No Medical
+                  <FontAwesomeIcon icon={faCircle} style={{ color: '#d3d3d3' }} className='mr-1' /> No Medical
                 </NavLink>
               </NavItem>
             </Nav>
