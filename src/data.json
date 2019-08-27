@@ -27,19 +27,6 @@
       }
     },
     {
-      "name": "American Samoa",
-      "abbreviation": "AS",
-      "status": {
-        "medical": false,
-        "recreational": false,
-        "reciprocity": false
-      },
-      "details": {
-        "links": [],
-        "info": []
-      }
-    },
-    {
       "name": "Arizona",
       "abbreviation": "AZ",
       "status": {
@@ -131,19 +118,6 @@
       }
     },
     {
-      "name": "Federated States Of Micronesia",
-      "abbreviation": "FM",
-      "status": {
-        "medical": false,
-        "recreational": false,
-        "reciprocity": false
-      },
-      "details": {
-        "links": [],
-        "info": []
-      }
-    },
-    {
       "name": "Florida",
       "abbreviation": "FL",
       "status": {
@@ -159,19 +133,6 @@
     {
       "name": "Georgia",
       "abbreviation": "GA",
-      "status": {
-        "medical": false,
-        "recreational": false,
-        "reciprocity": false
-      },
-      "details": {
-        "links": [],
-        "info": []
-      }
-    },
-    {
-      "name": "Guam",
-      "abbreviation": "GU",
       "status": {
         "medical": false,
         "recreational": false,
@@ -297,19 +258,6 @@
       "details": {
         "links": ["https://www.maine.gov/dafs/bbm/mmmp/sites/maine.gov.dafs.bbm.mmmp/files/inline-files/Out%20of%20State%20visiting%20patients_4.pdf"],
         "info": ["Accepts MMJ cards from Alaska, Arizona, Arkansas, California, Connecticut, Florida, Hawaii, Illinois, Maryland, Michigan, Minnesota, Montana, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Oregon, Rhode Island, Vermont, Washington, and Washington DC."]
-      }
-    },
-    {
-      "name": "Marshall Islands",
-      "abbreviation": "MH",
-      "status": {
-        "medical": false,
-        "recreational": false,
-        "reciprocity": false
-      },
-      "details": {
-        "links": [],
-        "info": []
       }
     },
     {
@@ -508,19 +456,6 @@
       }
     },
     {
-      "name": "Northern Mariana Islands",
-      "abbreviation": "MP",
-      "status": {
-        "medical": false,
-        "recreational": false,
-        "reciprocity": false
-      },
-      "details": {
-        "links": [],
-        "info": []
-      }
-    },
-    {
       "name": "Ohio",
       "abbreviation": "OH",
       "status": {
@@ -560,19 +495,6 @@
       }
     },
     {
-      "name": "Palau",
-      "abbreviation": "PW",
-      "status": {
-        "medical": false,
-        "recreational": false,
-        "reciprocity": false
-      },
-      "details": {
-        "links": [],
-        "info": []
-      }
-    },
-    {
       "name": "Pennsylvania",
       "abbreviation": "PA",
       "status": {
@@ -595,7 +517,7 @@
       },
       "details": {
         "links": ["http://cannabismedicinal.salud.gov.pr/?page_id=2852"],
-        "info": ["I am sleepy and I don't feel like going into Spanish mode right now so I'll find the source later..."]
+        "info": [""]
       }
     },
     {
@@ -682,19 +604,6 @@
       "status": {
         "medical": true,
         "recreational": true,
-        "reciprocity": false
-      },
-      "details": {
-        "links": [],
-        "info": []
-      }
-    },
-    {
-      "name": "Virgin Islands",
-      "abbreviation": "VI",
-      "status": {
-        "medical": false,
-        "recreational": false,
         "reciprocity": false
       },
       "details": {
