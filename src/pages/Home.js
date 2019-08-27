@@ -5,6 +5,7 @@ import mmjData from '../data.json'
 
 import MainTemplate from '../components/MainTemplate'
 import StateInfo from '../components/StateInfo'
+import StateDropdown from '../components/StateDropdown.js'
 
 export default class Home extends Component {
   constructor () {
@@ -13,8 +14,8 @@ export default class Home extends Component {
       selected: false,
       parsedData: this.parseStates(),
       stateData: {
-        'name': null,
-        'abbreviation': null,
+        name: null,
+        abbreviation: null,
         status: {
           medical: null,
           recreational: null,
@@ -29,7 +30,10 @@ export default class Home extends Component {
   }
 
   to (state) {
-    this.setState({ stateData: state, selected: true })
+    this.setState({
+      stateData: this.state.parsedData[state].data,
+      selected: true
+    })
   }
 
   parseStates () {
@@ -38,16 +42,19 @@ export default class Home extends Component {
       if (state.status.reciprocity) {
         states[state.abbreviation] = {
           fill: 'limegreen',
-          clickHandler: () => this.to(state)
+          clickHandler: () => this.to(state.abbreviation),
+          data: state
         }
       } else if (state.status.medical) {
         states[state.abbreviation] = {
           fill: 'green',
-          clickHandler: () => this.to(state)
+          clickHandler: () => this.to(state.abbreviation),
+          data: state
         }
       } else {
         states[state.abbreviation] = {
-          clickHandler: () => this.to(state)
+          clickHandler: () => this.to(state.abbreviation),
+          data: state
         }
       }
     })
@@ -61,6 +68,14 @@ export default class Home extends Component {
           <USAMap width='100%' customize={this.state.parsedData} />
         </Col>
         <Col xl={4} lg={6} md={12} className='pt-xl-4'>
+          <StateDropdown
+            handleInputChange={value => this.to(value)}
+            options={mmjData.states.map(state => {
+              return {
+                value: state.abbreviation,
+                label: state.name
+              }
+            })} />
           <StateInfo {...this.state} />
         </Col>
       </Row>

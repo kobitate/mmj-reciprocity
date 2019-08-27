@@ -12,6 +12,7 @@
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
+    "react-select": "^3.0.4",
     "react-usa-map": "^1.4.0",
     "reactstrap": "^8.0.1",
     "styled-components": "^4.3.2"
