@@ -31,12 +31,17 @@
       "abbreviation": "AZ",
       "status": {
         "medical": true,
-        "recreational": false,
+        "recreational": true,
         "reciprocity": true
       },
       "details": {
-        "links": ["https://www.azleg.gov/FormatDocument.asp?inDoc=/ars/36/02804-03.htm&Title=36&DocType=ARS","https://azdhs.gov/licensing/medical-marijuana/index.php#faqs-patients"],
-        "info": ["A registry identification card, or its equivalent, that is issued under the laws of another state, district, territory, commonwealth or insular possession of the United States that allows a visiting qualifying patient to possess or use marijuana for medical purposes in the jurisdiction of issuance has the same force and effect when held by a visiting qualifying patient as a registry identification card issued by the department, except that a visiting qualifying patient is not authorized to obtain marijuana from a nonprofit medical marijuana dispensary."]
+        "links": [
+          "https://www.azleg.gov/FormatDocument.asp?inDoc=/ars/36/02804-03.htm&Title=36&DocType=ARS",
+          "https://azdhs.gov/licensing/medical-marijuana/index.php#faqs-patients"
+        ],
+        "info": [
+          "A registry identification card, or its equivalent, that is issued under the laws of another state, district, territory, commonwealth or insular possession of the United States that allows a visiting qualifying patient to possess or use marijuana for medical purposes in the jurisdiction of issuance has the same force and effect when held by a visiting qualifying patient as a registry identification card issued by the department, except that a visiting qualifying patient is not authorized to obtain marijuana from a nonprofit medical marijuana dispensary."
+        ]
       }
     },
     {
@@ -48,8 +53,12 @@
         "reciprocity": true
       },
       "details": {
-        "links": ["https://www.healthy.arkansas.gov/programs-services/topics/medical-marijuana-faqs"],
-        "info": ["A visiting qualifying patient may obtain marijuana from a dispensary with approval as a visiting patient. A visiting patient application is $50.00 (non-refundable). If approved, a visiting patient may purchase medical marijuana in Arkansas for a 30-day period, per application."]
+        "links": [
+          "https://www.healthy.arkansas.gov/programs-services/topics/medical-marijuana-faqs"
+        ],
+        "info": [
+          "A visiting qualifying patient may obtain marijuana from a dispensary with approval as a visiting patient. A visiting patient application is $50.00 (non-refundable). If approved, a visiting patient may purchase medical marijuana in Arkansas for a 30-day period, per application."
+        ]
       }
     },
     {
@@ -113,8 +122,12 @@
         "reciprocity": true
       },
       "details": {
-        "links": ["http://lims.dccouncil.us/Download/39509/PR22-0699-Introduction.pdf"],
-        "info": ["Accepts MMJ cards from Colorado, Connecticut, Delaware, Florida, Hawaii, Illinois, Maine, Maryland, Massachusetts, Michigan, Montana, New Hampshire, New Jersey, Rhode Island, Oregon, and Washington."]
+        "links": [
+          "http://lims.dccouncil.us/Download/39509/PR22-0699-Introduction.pdf"
+        ],
+        "info": [
+          "Accepts MMJ cards from Colorado, Connecticut, Delaware, Florida, Hawaii, Illinois, Maine, Maryland, Massachusetts, Michigan, Montana, New Hampshire, New Jersey, Rhode Island, Oregon, and Washington."
+        ]
       }
     },
     {
@@ -152,7 +165,9 @@
         "reciprocity": true
       },
       "details": {
-        "links": ["http://health.hawaii.gov/medicalcannabisregistry/travel/"],
+        "links": [
+          "http://health.hawaii.gov/medicalcannabisregistry/travel/"
+        ],
         "info": []
       }
     },
@@ -256,8 +271,12 @@
         "reciprocity": true
       },
       "details": {
-        "links": ["https://www.maine.gov/dafs/bbm/mmmp/sites/maine.gov.dafs.bbm.mmmp/files/inline-files/Out%20of%20State%20visiting%20patients_8.pdf"],
-        "info": ["Accepts MMJ cards from Alaska, Arizona, Arkansas, California, Connecticut, Florida, Hawaii, Illinois, Iowa, Maryland, Massachusetts, Michigan, Minnesota, Montana, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Oklahoma, Oregon, Rhode Island, Vermont, Washington, and Washington DC."]
+        "links": [
+          "https://www.maine.gov/dafs/bbm/mmmp/sites/maine.gov.dafs.bbm.mmmp/files/inline-files/Out%20of%20State%20visiting%20patients_8.pdf"
+        ],
+        "info": [
+          "Accepts MMJ cards from Alaska, Arizona, Arkansas, California, Connecticut, Florida, Hawaii, Illinois, Iowa, Maryland, Massachusetts, Michigan, Minnesota, Montana, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Oklahoma, Oregon, Rhode Island, Vermont, Washington, and Washington DC."
+        ]
       }
     },
     {
@@ -295,8 +314,12 @@
         "reciprocity": true
       },
       "details": {
-        "links": ["https://weedmaps.com/learn/laws-and-regulations/michigan/"],
-        "info": ["According to weedmaps.com, certified medical cannabis patients from out of state may use medical cannabis while in Michigan, as long as their home state also allows for reciprocity. (unverified)"]
+        "links": [
+          "https://weedmaps.com/learn/laws-and-regulations/michigan/"
+        ],
+        "info": [
+          "According to weedmaps.com, certified medical cannabis patients from out of state may use medical cannabis while in Michigan, as long as their home state also allows for reciprocity. (unverified)"
+        ]
       }
     },
     {
@@ -316,7 +339,7 @@
       "name": "Mississippi",
       "abbreviation": "MS",
       "status": {
-        "medical": false,
+        "medical": true,
         "recreational": false,
         "reciprocity": false
       },
@@ -343,12 +366,16 @@
       "abbreviation": "MT",
       "status": {
         "medical": true,
-        "recreational": false,
-        "reciprocity": false
+        "recreational": true,
+        "reciprocity": true
       },
       "details": {
-        "links": [],
-        "info": []
+        "links": [
+          "http://www.mtcannabis.org/out-of-state-patients/"
+        ],
+        "info": [
+          "Unverified"
+        ]
       }
     },
     {
@@ -373,8 +400,12 @@
         "reciprocity": true
       },
       "details": {
-        "links": ["http://dpbh.nv.gov/Reg/MM-Patient-Cardholder-Registry/MM_Patient_Cardholder_Registry_-_Home/"],
-        "info": ["Accepts MMJ cards from Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Hawaii, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Montana, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, Vermont, Washington, and Washington DC."]
+        "links": [
+          "http://dpbh.nv.gov/Reg/MM-Patient-Cardholder-Registry/MM_Patient_Cardholder_Registry_-_Home/"
+        ],
+        "info": [
+          "Accepts MMJ cards from Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Hawaii, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Montana, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, Vermont, Washington, and Washington DC."
+        ]
       }
     },
     {
@@ -395,12 +426,16 @@
       "abbreviation": "NJ",
       "status": {
         "medical": true,
-        "recreational": false,
-        "reciprocity": false
+        "recreational": true,
+        "reciprocity": true
       },
       "details": {
-        "links": [],
-        "info": []
+        "links": [
+          "https://www.nj.gov/governor/news/news/562019/approved/20190702d.shtml"
+        ],
+        "info": [
+          "Individuals who are registered as qualifying patients in other states can be considered qualifying patients in New Jersey for a period of up to six months. During that time, they can possess and use medical marijuana, and can obtain medical marijuana if they get authorization from a health care practitioner in New Jersey based on a qualifying condition."
+        ]
       }
     },
     {
@@ -464,8 +499,12 @@
         "reciprocity": true
       },
       "details": {
-        "links": ["http://codes.ohio.gov/orc/3796.16"],
-        "info": ["Reciprocity is written into Ohio's MMJ laws, but the State has not appear to have announed any states whose cards they will accept."]
+        "links": [
+          "http://codes.ohio.gov/orc/3796.16"
+        ],
+        "info": [
+          "Reciprocity is written into Ohio's MMJ laws, but the State has not appear to have announed any states whose cards they will accept."
+        ]
       }
     },
     {
@@ -477,8 +516,12 @@
         "reciprocity": true
       },
       "details": {
-        "links": ["http://omma.ok.gov/temporary-adult-patient-application-information1"],
-        "info": ["A medical marijuana temporary adult patient license allows an individual with a valid medical marijuana license from another state to legally buy, use, and grow medical marijuana and medical marijuana products in Oklahoma."]
+        "links": [
+          "http://omma.ok.gov/temporary-adult-patient-application-information1"
+        ],
+        "info": [
+          "A medical marijuana temporary adult patient license allows an individual with a valid medical marijuana license from another state to legally buy, use, and grow medical marijuana and medical marijuana products in Oklahoma."
+        ]
       }
     },
     {
@@ -516,8 +559,12 @@
         "reciprocity": true
       },
       "details": {
-        "links": ["http://cannabismedicinal.salud.gov.pr/?page_id=2852"],
-        "info": [""]
+        "links": [
+          "http://cannabismedicinal.salud.gov.pr/?page_id=2852"
+        ],
+        "info": [
+          ""
+        ]
       }
     },
     {
@@ -529,7 +576,9 @@
         "reciprocity": true
       },
       "details": {
-        "links": ["https://www.providencejournal.com/news/20180728/ri-dispensaries-begin-selling-to-out-of-state-customers"],
+        "links": [
+          "https://www.providencejournal.com/news/20180728/ri-dispensaries-begin-selling-to-out-of-state-customers"
+        ],
         "info": []
       }
     },
@@ -550,13 +599,16 @@
       "name": "South Dakota",
       "abbreviation": "SD",
       "status": {
-        "medical": false,
-        "recreational": false,
-        "reciprocity": false
+        "medical": true,
+        "recreational": true,
+        "reciprocity": true
       },
       "details": {
         "links": [],
-        "info": []
+        "info": [
+          "Recreational use scheduled to become legal on July 1st, 2021.",
+          "Medical program in its infancy and reciprocity may not yet be active, details TBD."
+        ]
       }
     },
     {
@@ -646,8 +698,12 @@
         "reciprocity": true
       },
       "details": {
-        "links": ["http://www.wvlegislature.gov/wvcode/code.cfm?chap=16A&art=3"],
-        "info": ["The bureau may enter into reciprocity agreements with any states that have comparable requirements for the use and lawful purchase of medical cannabis in a manner consistent with the provisions of this article to allow terminally ill cancer patients to purchase medical cannabis in another state."]
+        "links": [
+          "http://www.wvlegislature.gov/wvcode/code.cfm?chap=16A&art=3"
+        ],
+        "info": [
+          "The bureau may enter into reciprocity agreements with any states that have comparable requirements for the use and lawful purchase of medical cannabis in a manner consistent with the provisions of this article to allow terminally ill cancer patients to purchase medical cannabis in another state."
+        ]
       }
     },
     {
