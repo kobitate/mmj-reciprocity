@@ -2,7 +2,7 @@
 A quick reference map on which Medical Marijuana states accept cards from other 
 states
 
-[https://kaitiggy.gitlab.io/mmj-reciprocity/](https://kaitiggy.gitlab.io/mmj-reciprocity/)
+~~kaitiggy.gitlab.io/mmj-reciprocity~~ Moving to GitHub Pages Soon™, [see issue](https://github.com/kobitate/mmj-reciprocity/issues/1)
 
 ![image preview](https://i.imgur.com/Xvp1ahY.png)
 
